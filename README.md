@@ -1,4 +1,4 @@
-Founder & CTO at [Ask Gina](https://askgina.ai) in London — building production agents, memory, evals, and human-approved wallet boundaries.
+Currently building production agents, memory, evals, and human-approved wallet boundaries.
 
 <p align="center">
   <a href="https://github.com/ericjuta/isodia-mcp">
