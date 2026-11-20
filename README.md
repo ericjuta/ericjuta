@@ -2,7 +2,7 @@ Founder & CTO at [Ask Gina](https://askgina.ai) in London — building productio
 
 <p align="center">
   <a href="https://github.com/ericjuta/isodia-mcp">
-    <img src="./assets/stack.svg" alt="Agent stack diagram drawn with isodia-mcp" width="100%" />
+    <img src="./assets/stack.png" alt="Agent stack diagram drawn with isodia-mcp" width="100%" />
   </a>
   <br />
   <sub>Drawn with <a href="https://github.com/ericjuta/isodia-mcp">isodia-mcp</a> · live eval leaderboard at <a href="https://evals.askgina.ai">evals.askgina.ai</a></sub>
